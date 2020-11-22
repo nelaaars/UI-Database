@@ -1,0 +1,46 @@
+*,body{
+    margin :0;
+    padding:0;
+}
+body{
+    background-color: #f7f9fc
+}
+
+/*form add*/
+.tabel{
+    position: relative;
+	display: inline-block;
+    border-collapse: collapse;
+    width: 38%;
+    margin-top: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 430px;
+    background-color: #BCE7F0;
+    font-family: Poppins;
+    border-radius: 10px;
+}
+.tabel tr{
+    height: 30px;
+}
+.tabel td{
+    color: #2A3490;
+    height: 40px;
+    width: 45px;
+}
+.tabel tr td{
+    padding:  5px 5px;
+}
+table {
+	margin-left: 40px;
+}
+td input{
+	width: 350px;
+	height: 30px;
+	font-family: Poppins;
+    border-radius: 5px;
+}
+.balik{
+    position: relative;
+	display: inline-block;
+}

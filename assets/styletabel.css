@@ -1,0 +1,46 @@
+*,body{
+	margin :0;
+	padding:0;
+}
+body{
+	background-color: #f7f9fc
+}
+.tabel{
+    position: relative;
+	display: inline-block;
+    border-collapse: collapse;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.tabel tr{
+	font-family: Poppins;
+    height: 30px;
+}
+.tabel th{
+    color: #2A3490;
+    background-color: #BCE7F0;
+    height: 40px;
+
+}
+.tabel tr td{
+    padding:  5px 5px;
+}
+.tabel tr td a{
+    color: black;
+}
+table {
+	margin-left: 135px;
+}
+a.buttonadd{
+	position: relative;
+	display: inline-block;
+	font-family: Poppins;
+	font-size: 16px;
+	padding: 13px 35px;
+	text-decoration: none;
+	color: #2A3490;
+	background-color: #BCE7F0; 
+	border-radius: 10px;
+	margin-left: 1043px;
+}
